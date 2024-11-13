@@ -1,10 +1,15 @@
-# Hi there 👋 I'm Jason!  
-I'm Frontend Developer from the UK 🇬🇧
+# Hello, I'm Jason! :wave:
+I'm a Frontend Developer from the UK 🇬🇧
 
-Currently working freelance for a variety of clients, and trying to help with open source where I can, whilst I search for a full time role. 
+**Current Role:** Freelance Frontend Developer  
+**Open to a new role:** ✔️ 
 
 ### You can reach me on LinkedIn regarding any opportunities. 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jason-blackburn-frontend-developer/)  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jason-blackburn-frontend-developer/) [![cv](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/JBlackburn94/JBlackburn94/blob/main/CV.pdf)
+
+### Tech Stack  
+![NextJS](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=Next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=Greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black) 
+
 
 
 
