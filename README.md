@@ -1,8 +1,7 @@
 # Hello, I'm Jason! :wave:
 I'm a Frontend Developer from the UK 🇬🇧
 
-**Current Role:** Freelance Frontend Developer  
-**Open to a new role:** ✔️ 
+**Current Role:** Frontend Developer  
 
 ### You can reach me on LinkedIn regarding any opportunities. 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jason-blackburn-frontend-developer/) [![cv](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/JBlackburn94/JBlackburn94/blob/main/CV.pdf)
