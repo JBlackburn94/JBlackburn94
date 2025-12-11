@@ -1,31 +1,44 @@
-# Hello, I'm Jason! :wave:
-I'm a Frontend Developer from the UK 🇬🇧
+# 👋 Hi, I'm Jason — Frontend Developer from the UK
 
-### You can reach me on LinkedIn.
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jason-blackburn-frontend-developer/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="PHPStorm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm logo" />
+</p>
 
-### Tech Stack  
-![VueJS](https://img.shields.io/badge/Vue.Js-000000?style=for-the-badge&logo=Vue.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-B534CE?style=for-the-badge&logo=Astro&logoColor=white) ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=black) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=Greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-61DBFB?style=for-the-badge&logo=TailwindCSS&logoColor=black) 
+I'm a **Frontend Developer** focused on creating fast, accessible and visually polished websites and applications. I work with a broad range of modern technologies, but my current core stack includes:
 
-![Codewars](https://github.r2v.ch/codewars?user=jblackburndev&stroke=blue)
+- **Vue.js**
+- **Astro**
+- **TailwindCSS**
+- **GSAP** (GreenSock)
+- **Laravel**
+- **Custom CMS Development**
 
+## 🦀 About My Work  
+I work at **RedSnapper**, a UK-based digital agency (yes — the logo is a red crab 🦀).  
+Most of our projects are within the **pharmaceutical** sector, building complex websites and digital experiences for global brands.
 
+Outside of agency work, I build a variety of interactive web applications, marketing sites, and highly animated UI experiences.
 
+## 🧰 Tools & IDE  
+I work primarily in:  
+- **JetBrains PHPStorm**  
+- **JetBrains WebStorm**
 
+## 🚀 What I Love Building  
+- High-performance, lightweight frontends  
+- Smooth motion experiences using GSAP  
+- Component-driven architectures  
+- Fast static sites with Astro  
+- Clean, maintainable codebases
 
-
-
-<!--
-**JBlackburn94/JBlackburn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find Me  
+Feel free to explore my GitHub repos and follow my work!
