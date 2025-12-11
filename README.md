@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason — Frontend Developer from the UK
+# 👋 Hi, I'm Jason
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue logo" />
