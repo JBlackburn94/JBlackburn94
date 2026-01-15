@@ -23,7 +23,7 @@ I'm a **Frontend Developer** focused on creating fast, accessible and visually p
 - **Custom CMS Development**
 
 ## 🦀 About My Work  
-I work at **RedSnapper**, a UK-based digital agency (yes — the logo is a red crab 🦀).  
+I work at **RedSnapper**, a UK-based digital agency.  
 Most of our projects are within the **pharmaceutical** sector, building complex websites and digital experiences for global brands.
 
 Outside of agency work, I build a variety of interactive web applications, marketing sites, and highly animated UI experiences.
