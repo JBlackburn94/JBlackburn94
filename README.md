@@ -22,7 +22,7 @@ I'm a **Frontend Developer** focused on creating fast, accessible and visually p
 - **Laravel**
 - **Custom CMS Development**
 
-## 🦀 About My Work  
+## 📈 About My Work  
 I work at **RedSnapper**, a UK-based digital agency.  
 Most of our projects are within the **pharmaceutical** sector, building complex websites and digital experiences for global brands.
 
