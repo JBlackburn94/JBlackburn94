@@ -24,8 +24,6 @@ I'm a **Frontend Developer** focused on creating fast, accessible and visually p
 I work at a UK-based digital agency.  
 Most of our projects are within the **pharmaceutical** sector, building complex websites and digital experiences for global brands.
 
-Outside of agency work, I build a variety of interactive web applications, marketing sites, and highly animated UI experiences.
-
 ## 🚀 What I Love Building  
 - High-performance, lightweight frontends  
 - Smooth motion experiences using GSAP  
